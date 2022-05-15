@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Richard Oyelabi, a digital marketer and software engineer.
+- 👋 Hi, I’m Richard, a super tech-savvy digital marketer. By extension, I'll engineer the perfect digital product; try me.
 - 👀 I geek out over anything tech or science.
-- 🌱 Need a fun, creative marketer or engineer (or both!) for some cool stuff? Hit me up
-- 💞️ You'll love me.
+- 💞️ We should be friends. You'll love me.
 - 📫 richardoyelabi.com; twitter.com/richardoyelabi
 -    P.S. If you use WhatsApp, you should drop me a hi at +2347054043588. I post the latest happenings in science and tech as status updates.
 

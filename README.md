@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Richard, a super tech-savvy digital marketer. By extension, I'll engineer the perfect digital product; try me.
+- 👋 Hi, I’m Richard, a super tech-savvy (often digital) marketer. By extension, I'll engineer the perfect digital product; try me.
 - 👀 I geek out over anything tech or science.
 - 💞️ We should be friends. You'll love me.
 - 📫 richardoyelabi.com; twitter.com/richardoyelabi

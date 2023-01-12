@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Richard, a software engineer and digital marketer.
+- 👋 Hi, I’m Richard, a backend software engineer.
+- 
 - 👀 I geek out over anything tech, science or marketing.
 - 💞️ We should be friends. You'll love me.
 

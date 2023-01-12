@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Richard, a backend software engineer.
 - 💓 I enjoy designing complex systems to the ugliest 😋 details
      and making them go rarrr!!! as efficiently as possible.
-- 📚 I'm got experience with Python, Django, Docker, PHP, WordPress, AWS,..
+- 📚 I've got experience with Python, Django, Docker, PHP, WordPress, AWS,..
 - 🤓 I geek out over anything tech, science or just innovative!
 - 💞️ We should be friends. You'll love me.
 
